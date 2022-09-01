@@ -1,2 +1,2 @@
 # MyBook
-ML Resume
+ML notebook collection
